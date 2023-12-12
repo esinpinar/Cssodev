@@ -1,0 +1,73 @@
+.logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+} 
+.container {
+    display: block;
+    background-color: rgba(238, 238, 238);
+   text-align: center;
+   margin-right: 84px;
+   margin-left: 80px;
+}
+.content {
+    display: block;
+    margin-top: -100px;
+    margin-left:80px;
+    margin-right:80px;
+}
+.content{
+   
+    text-align: center;
+    font-weight: normal;
+    font-style: normal;
+    font-variant: normal;
+    border-collapse: separate;
+    border-spacing: 2px;
+    line-height: normal;
+    margin-top: 1px;
+    display: flow-root;
+    letter-spacing: 0,5px;
+    
+
+}
+.box1{ 
+    font-size: medium;
+    background-color: #7EE5DA;
+    width: 37%;
+    text-align: center;
+    float:left ;
+    padding: 10px 0;
+    margin-top: 2px;
+    margin-right: 0;
+    height: 60px;
+}
+.box2{
+    font-size: -1; 
+    text-align: initial;
+    background-color: #70ccc2;
+    width: 20%;
+    margin: 2px;
+    text-align: center;
+    float:left ;
+    padding-top: 5px;
+    height: 76px; 
+    border-spacing: 2px;
+
+}
+.box3{
+    font-size: small;
+    background-color: #62b3aa;
+    text-align: center;
+    width: 42%;
+    float: left;
+    padding: 0;
+    margin: 2px auto auto 0;
+    height: 80px;
+}
+.foot{
+    font-size: smaller;
+    text-align: center;
+    margin-top: 100px;
+}
+
